@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently  **learning python...**
 
-- 👯 I’m in grade 9 **grade 9...**
+- 👯 I’m in **grade 9...**
 
-- 🤝 I have completed c++ **completed c++...**
+- 🤝 I have **completed c++...**
 
 - 📫 How to reach me **yusufali01005@gmail.com**
 
