@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf Ali...</h1>
 <h3 align="center">A passionate frontend developer from India...</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zerzahpromax&label=Profile%20views&color=0e75b6&style=flat" alt="zerzahpromax" /> </p>
+
 
 - 🔭 I’m currently a **student of St. Georges School...**
 
