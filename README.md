@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently  **learning python...**
 
-- 👯 I’m in **grade 9...**
+- 👯 I’m in **grade 10th...**
 
 - 🤝 I have **completed c++...**
 
